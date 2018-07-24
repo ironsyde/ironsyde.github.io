@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Ben Ironside
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Ben Ironside - Data Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://lh3.googleusercontent.com/J2gI7nvDZYq-OBi9A-LhWLQnIEgfTzMhhv2hhT9eBeJA5_h9JN1-kxbnPXxai0hS8GHrOtbcs70h5M6Y5jK_cVx0ZnXLCo1mRA7K4fa7iHP7UDz6zcAFzG4KAQ_7oU1bxrbJ-LrG7SkOKyfKRvwr72M6VxMNSBtFaoNcOuq_6ImicEIFTx_h6xVngUf4_numuBxh9uiixb_f89aZdLQ3s0ifZ6HBrQl0gM6ZRKklSrfC0IwLnVtvtIlinY04sfB7kI-j5NYkHOAAFYIfXoArszock3p6uqUYltqHGCG7G0ePlyf0M8V4UGbj8nZmtnLGkCSUQNK0XDYxEjuCEoikcqAAOcMLEvhH2oKOxzcAem05J3YEtcDew8QPlDDbAuJZcG5_M9XJsznFUBVQV6HQgGZLF8Pu-58RPIpGuIwQoOPFcjygSAtt_tok1TQrez3DIymaI85cEUG1Wpq7W-NEWtU57VyKkt-w84JO_Ee9Nuie3fh2YAxWFj5Howu3DOsrC_fdjlXNg8zcL2OH3ysUFgd1ysIY__0EM7TPi7wQ2XtIbrv3cb77OZ7Cenm2DzxbifweO8ZUc-OwGhGiwRwh6-5-gkqcCVCSUqB4mN97i5kYzITBCK9XE2y8rPJ38JlqdiGvFmtUZ_Gqqa9ud-icWgznjWDRk18Y=w537-h803-no
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: ironsyde
+  instagram: 
+  linkedin: https://www.linkedin.com/in/ben-i-goldstein
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: # username
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
