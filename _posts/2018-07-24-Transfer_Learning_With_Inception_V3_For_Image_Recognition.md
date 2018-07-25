@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Computer Vision: Object Recognition withTransfer Learning using the Inception V3 Neural Network" 
+title: "Computer Vision: Object Recognition with Transfer Learning using the Inception V3 Neural Network" 
 date: 2018-07-15
 publish: true
 ---
-## Image Classification With Neural Networks in Tensorflow
+# How I used a state-of-the-art convolutional neural network to make a tool for classifying the content of images - and how you can too.
 
-## How I used a state-of-the-art convolutional neural network to make a tool for classifying the content of images - and how you can too.
 
 Computer vision is an important area of research where neural network models have remarkable success. The potential of this technology goes far beyond its highly publicized uses for self-driving vehicles and facial recognition. My interest in this area was sparked by its potential utility for people with visual impairments, and its potential as a labor-saving tool for purposes such as data collection, physical security, plant identifiation, and lab science. 
 
