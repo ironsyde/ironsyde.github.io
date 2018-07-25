@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Computer Vision: Object Recognition withTransfer Learning using the Inception V3 Neural Network 
+title: "Computer Vision: Object Recognition withTransfer Learning using the Inception V3 Neural Network" 
 date: 2018-07-15
 publish: true
 ---
