@@ -1,5 +1,10 @@
-
-# Using Reddit's API for Predicting Comments
+---
+layout: post
+title: Using Reddit's API for Predicting Comments
+date: 2018-06-05
+publish: true
+---
+My model for predicting whether a Reddit post will elicit an above-average number of comments, based on data scraped from thousands of Reddit posts.
 
 ## Executive Summary:
 
