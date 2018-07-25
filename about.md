@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a critical thinker, data enthusiast, and insight addict. I use this blog to post some of my data science projects. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+#### Find me on [LinkedIn](https://www.linkedin.com/in/ben-i-goldstein/)
